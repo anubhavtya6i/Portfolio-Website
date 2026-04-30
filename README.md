@@ -15,7 +15,7 @@ A modern, responsive portfolio website built to showcase my technical skills, pr
 *   **Styling:** CSS3 (Custom Variables, Flexbox, Grid)
 *   **Logic:** JavaScript (ES6+)
 
-# Project Structure
-- index.html       Main landing page
-- style.css        Custom styles and dark mode variables
-- script.js        Theme switching and UI interactions
+### Project Structure
+- index.html :      Main landing page
+- style.css  :     Custom styles and dark mode variables
+- script.js  :     Theme switching and UI interactions
