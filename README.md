@@ -10,7 +10,7 @@ A modern, responsive portfolio website built to showcase my technical skills, pr
 *   **Smooth Navigation:** Interactive elements and smooth scrolling for a seamless browsing experience.
 *   **Contact Integration:** Functional contact section for professional inquiries.
 
-### 🛠️ Tech Stack
+### Tech Stack
 *   **Structure:** HTML5
 *   **Styling:** CSS3 (Custom Variables, Flexbox, Grid)
 *   **Logic:** JavaScript (ES6+)
