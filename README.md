@@ -7,7 +7,7 @@ A modern, responsive portfolio website built to showcase my technical skills, pr
 
 ### Key Features
 *   **Responsive Design:** Fully optimized for mobile, tablet, and desktop viewing.
-*   **Dark Mode Support:** A toggleable theme for improved user experience in low-light environments.
+*   **Dark Mode Support:** A toggleable theme for improved user experience in low-light environments for better experience.
 *   **Project Showcase:** Dynamic display of work with links to GitHub repositories and live demos.
 *   **Smooth Navigation:** Interactive elements and smooth scrolling for a seamless browsing experience.
 *   **Contact Integration:** Functional contact section for professional inquiries.
