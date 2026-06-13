@@ -1,7 +1,7 @@
 # Portfolio-Website
 Author - Anubhav Tyagi 
 <br>
-Full Stack Developer 
+Front-end Developer 
 
 A modern, responsive portfolio website built to showcase my technical skills, professional projects, and creative journey. This site features a clean user interface with a focus on performance and accessibility.
 
